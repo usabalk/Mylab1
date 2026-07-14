@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ukeshadf"
+		},
+		"ds_dest1_connectionString": {
+			"value": ""
+		},
+		"ls_dest_connectionString": {
+			"value": ""
+		},
+		"ls_source_connectionString": {
+			"value": ""
+		},
+		"ls_source1_connectionString": {
+			"value": ""
+		}
+	}
+}

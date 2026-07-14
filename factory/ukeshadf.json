@@ -1,0 +1,15 @@
+{
+	"name": "ukeshadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "07b931f8-5a40-4c03-8480-73de80012cd0",
+		"tenantId": "2c3d753e-1329-4616-833a-fb0eda20732c"
+	}
+}
